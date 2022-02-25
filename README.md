@@ -22,6 +22,6 @@ python generate.py data.dat
 ```
  
 ## Examples 
-In this repo, you can find an example dataset 
+In this repo, you can find an example dataset, and the following is an example captcha image.
 
 ![Captcha Example](https://github.com/AhmedFakhry47/Captcha-Dataset/blob/main/data/002Jm839.png)
