@@ -7,6 +7,21 @@ in quite fast manner. Added two parameters to determine the number of characters
 
 ## Usage 
 
-Clone the repo, edit the data.dat file or create your own including the following parameters:  
+Clone the repo, edit the data.dat file or create your own including the following parameters:
 
-python 
+* the path to store the dataset 
+* size of the dataset
+* captcha - image size 
+* number of characters 
+* number of digits & symbols
+
+After that, run the following command: 
+
+```
+python generate.py data.dat 
+```
+ 
+## Examples 
+In this repo, you can find an example dataset 
+
+![Captcha Example](https://github.com/AhmedFakhry47/Captcha-Dataset/blob/main/data/002Jm839.png)
